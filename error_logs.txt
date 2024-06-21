@@ -1,0 +1,20 @@
+Login failed for: admin/wrongpass
+Exception occurred for: wronguser/admin123. Error: element not interactable
+  (Session info: chrome=126.0.6478.62)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25b0c089d24958560051b475942d6765, sendKeysToElement {value=[Ljava.lang.CharSequence;@42cc13a0, id=f.39F5239438999AF990A1F3F7431F41E1.d.8F4F98F587DCDF094F3F0EA5F8279C15.e.102}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.62 (b2781ca4c383..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49402}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49402/devtoo..., se:cdpVersion: 126.0.6478.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (25b0c089d24958560051b475942d6765)] -> name: password]
+Session ID: 25b0c089d24958560051b475942d6765
+Exception occurred for: /admin123. Error: element not interactable
+  (Session info: chrome=126.0.6478.62)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25b0c089d24958560051b475942d6765, sendKeysToElement {value=[Ljava.lang.CharSequence;@faa3fed, id=f.39F5239438999AF990A1F3F7431F41E1.d.A10F3753049AF10690948DF6FA5F233E.e.118}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.62 (b2781ca4c383..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49402}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49402/devtoo..., se:cdpVersion: 126.0.6478.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (25b0c089d24958560051b475942d6765)] -> name: password]
+Session ID: 25b0c089d24958560051b475942d6765
+Login failed for: admin/
